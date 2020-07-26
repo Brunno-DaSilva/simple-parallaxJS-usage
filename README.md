@@ -1,4 +1,4 @@
 # simple-parallaxJS-usage
 
 
-#### Demo:  https://dasilvabrunotexas.github.io/simple-parallaxJS-usage/.
+### Demo:  https://brunno-dasilva.github.io/simple-parallaxJS-usage/.
